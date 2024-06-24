@@ -1,0 +1,53 @@
+=> 
+[[32m#<Product:0x00007fbe240e3ed8[0m
+  id: [34m[1m3[0m,
+  title: [31m[1m"[0m[31mCrema Hidratante Orgánica[0m[31m[1m"[0m,
+  description:
+   [31m[1m"[0m[31mCrema hidratante para la piel, hecha con ingredientes orgánicos.[0m[31m[1m"[0m,
+  price: [34m[1m6[0m,
+  created_at: Sat, 01 Jun 2024 23:07:32.972341000 UTC +00:00,
+  updated_at: Sat, 01 Jun 2024 23:07:32.972341000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007fbe24096048[0m
+  id: [34m[1m4[0m,
+  title: [31m[1m"[0m[31mJabón Orgánico de Aloe Vera[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mJabón suave hecho con ingredientes naturales y aloe vera.[0m[31m[1m"[0m,
+  price: [34m[1m4[0m,
+  created_at: Sat, 01 Jun 2024 23:09:17.226353000 UTC +00:00,
+  updated_at: Sat, 01 Jun 2024 23:09:17.226353000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007fbe24095f08[0m
+  id: [34m[1m5[0m,
+  title: [31m[1m"[0m[31mShampoo Orgánico de Lavanda[0m[31m[1m"[0m,
+  description:
+   [31m[1m"[0m[31mShampoo natural con esencia de lavanda, sin sulfatos ni parabenos.[0m[31m[1m"[0m,
+  price: [34m[1m10[0m,
+  created_at: Sat, 01 Jun 2024 23:10:10.579373000 UTC +00:00,
+  updated_at: Sat, 01 Jun 2024 23:10:10.579373000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007fbe24095dc8[0m
+  id: [34m[1m6[0m,
+  title: [31m[1m"[0m[31mCepillos de Dientes de Bambú[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mCepillos de dientes biodegradables hechos de bambú.[0m[31m[1m"[0m,
+  price: [34m[1m3[0m,
+  created_at: Sun, 02 Jun 2024 18:42:22.042744000 UTC +00:00,
+  updated_at: Sun, 02 Jun 2024 18:42:22.042744000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007fbe24095c88[0m
+  id: [34m[1m9[0m,
+  title: [31m[1m"[0m[31mSorbetes Reutilizables de Acero Inoxidable[0m[31m[1m"[0m,
+  description:
+   [31m[1m"[0m[31mSorbetes duraderas y reutilizables hechas de acero inoxidable.[0m[31m[1m"[0m,
+  price: [34m[1m8[0m,
+  created_at: Sun, 02 Jun 2024 21:19:46.435632000 UTC +00:00,
+  updated_at: Sun, 02 Jun 2024 21:19:46.435632000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007fbe24095b48[0m
+  id: [34m[1m10[0m,
+  title: [31m[1m"[0m[31mCepillo[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mcepillo[0m[31m[1m"[0m,
+  price: [34m[1m1[0m,
+  created_at: Sun, 02 Jun 2024 21:20:36.140745000 UTC +00:00,
+  updated_at: Sun, 02 Jun 2024 21:20:36.140745000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007fbe24095a08[0m
+  id: [34m[1m11[0m,
+  title: [31m[1m"[0m[31mCepillo[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mgb[0m[31m[1m"[0m,
+  price: [34m[1m5[0m,
+  created_at: Sun, 02 Jun 2024 21:22:58.587720000 UTC +00:00,
+  updated_at: Sun, 02 Jun 2024 21:22:58.587720000 UTC +00:00[32m>[0m]

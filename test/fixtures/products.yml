@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+jabon:
+  title: Jabón Orgánico de Aloe Vera
+  description: Jabón suave hecho con ingredientes naturales y aloe vera.
+  price: 5.1
+
+shampoo:
+  title: Shampoo Orgánico de Lavanda
+  description: Shampoo natural con esencia de lavanda, sin sulfatos ni parabenos.
+  price: 8.2
+
+cepillo: 
+  title: Cepillo de dientes de bambú
+  description: Cepillos de dientes biodegradables hechos de bambú.
+  price: 3.3
+
+crema: 
+  title: Crema orgánica
+  description: Crema hidratante para la cara, hecha con ingredientes orgánicos.
+  price: 6.4
