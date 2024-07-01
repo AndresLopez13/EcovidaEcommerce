@@ -16,7 +16,7 @@ class ProductsController < ApplicationController
 
     # pp @product #imprimir @producto con los parametros enviados en el form
     if @product.save
-      redirect_to products_path, notice: 'Producto agregado correctamente'
+      redirect_to products_path, notice: t('.created')
     else
       render :new, status: :unprocessable_entity # devuelve un status 422 422 (Unprocessable Content)
     end
@@ -28,7 +28,7 @@ class ProductsController < ApplicationController
 
   def update
     if product.update(product_params)
-      redirect_to products_path, notice: 'Producto actualizado correctamente'
+      redirect_to products_path, notice: t('.updated')
     else
       render :edit, status: :unprocessable_entity # devuelve un status 422 (Unprocessable Content)
     end
@@ -36,7 +36,7 @@ class ProductsController < ApplicationController
 
   def destroy
     product.destroy
-    redirect_to products_path, notice: 'Producto eliminado correctamente'
+    redirect_to products_path, notice: t('.destroyed')
   end
 
   private

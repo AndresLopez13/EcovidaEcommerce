@@ -1,0 +1,44 @@
+es:
+  shared:
+    header:
+      add_product: 'Añadir Producto'
+      show_products: 'Ver Productos'
+  activerecord:
+    models:
+      product: 'Producto'
+    attributes:
+      product:
+        title: 'Título'
+        description: 'Descripción'
+        price: 'Precio'
+        image: 'Imagen'
+    errors:
+      models:
+        product:
+          attributes: 
+            title: 
+              blank: 'no puede estar vacío'
+            description: 
+              blank: 'no puede estar vacío'
+            price: 
+              blank: 'no puede estar vacío'
+  common: 
+    confirm: '¿Estás seguro?'
+    back: 'Regresar'
+    btn_edit: 'Editar'
+    btn_delete: 'Eliminar'
+  products:
+    edit:
+      title: 'Editar Producto'
+    new:
+      title: 'Añadir Producto'
+    index: 
+      title: 'Productos'
+    create: 
+      created: 'Producto agregado correctamente'
+    update:
+      updated: 'Producto actualizado correctamente'
+    destroy: 
+      destroyed: 'Producto eliminado correctamente'
+    
+
